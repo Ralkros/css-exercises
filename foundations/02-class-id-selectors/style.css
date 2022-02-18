@@ -1,0 +1,19 @@
+.pinkred {
+    background-color: #ff7575;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number2 {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#number4 {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #80ff80;
+}
+
+.cool {
+    font-size: 24px;
+}
